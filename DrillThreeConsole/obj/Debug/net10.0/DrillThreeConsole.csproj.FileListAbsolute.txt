@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/bin/Debug/net10.0/DrillThreeConsole
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/bin/Debug/net10.0/DrillThreeConsole.deps.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/bin/Debug/net10.0/DrillThreeConsole.runtimeconfig.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/bin/Debug/net10.0/DrillThreeConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/bin/Debug/net10.0/DrillThreeConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.sourcelink.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/refint/DrillThreeConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/DrillThreeConsole.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillThreeConsole/obj/Debug/net10.0/ref/DrillThreeConsole.dll
