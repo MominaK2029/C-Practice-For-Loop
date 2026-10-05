@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DrillTwoConsole/1.0.0": {
+        "runtime": {
+          "DrillTwoConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DrillTwoConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

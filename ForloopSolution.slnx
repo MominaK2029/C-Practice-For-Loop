@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DrillOneConsole/DrillOneConsole.csproj" />
+  <Project Path="DrillTwoConsole/DrillTwoConsole.csproj" />
+</Solution>
