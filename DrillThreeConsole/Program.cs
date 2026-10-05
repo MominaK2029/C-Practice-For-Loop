@@ -9,7 +9,7 @@ class Program
         // TODO: Set the condition to stop before reaching the length of the array
         for (int i = 0; i < 4; i++)
         {
-            Console.WriteLine(fruits[i]);
+            Console.WriteLine("Index " + i + ": " + fruits[i]);
         }
     }
 }
