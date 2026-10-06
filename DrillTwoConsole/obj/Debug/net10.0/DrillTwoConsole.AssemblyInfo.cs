@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrillTwoConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59974a04cf1eb5e530f45d99d98d3876f7cb2260")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrillTwoConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrillTwoConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
