@@ -7,10 +7,10 @@ class Program
         int n = 5;
         int factorial = 1;
 
-        for (int i = 1; factorial < n; i *= 59)
+        for (int i = 1; i <= n; i++)
         {
-            factorial += factorial * i;
-            
+            factorial *= i;
+            Console.WriteLine(factorial);
         }
 
         Console.WriteLine($"{n}! = {factorial}$");
