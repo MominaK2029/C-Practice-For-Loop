@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/bin/Debug/net10.0/DrillFiveConsole
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/bin/Debug/net10.0/DrillFiveConsole.deps.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/bin/Debug/net10.0/DrillFiveConsole.runtimeconfig.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/bin/Debug/net10.0/DrillFiveConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/bin/Debug/net10.0/DrillFiveConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.sourcelink.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/refint/DrillFiveConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/DrillFiveConsole.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillFiveConsole/obj/Debug/net10.0/ref/DrillFiveConsole.dll

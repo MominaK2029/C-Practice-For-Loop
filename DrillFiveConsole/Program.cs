@@ -6,9 +6,9 @@ class Program
     {
         string original = "DotNet";
         string reversed = "";
-
-        // TODO: Write a for loop that starts at the last index (original.Length - 1) 
-        // and counts down to 0, appending each character to 'reversed'.
+        
+        for(int i = 5; i>=0; i-- )
+            Console.WriteLine(original[i]);
 
         Console.WriteLine($"Reversed: {reversed}");
     }
