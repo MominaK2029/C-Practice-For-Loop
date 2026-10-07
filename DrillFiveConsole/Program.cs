@@ -8,7 +8,7 @@ class Program
         string reversed = "";
         
         for(int i = 5; i>=0; i-- )
-            Console.WriteLine(original[i]);
+            reversed += original[i];
 
         Console.WriteLine($"Reversed: {reversed}");
     }
