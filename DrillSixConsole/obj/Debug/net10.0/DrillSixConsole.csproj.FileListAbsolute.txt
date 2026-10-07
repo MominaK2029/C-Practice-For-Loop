@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/bin/Debug/net10.0/DrillSixConsole
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/bin/Debug/net10.0/DrillSixConsole.deps.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/bin/Debug/net10.0/DrillSixConsole.runtimeconfig.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/bin/Debug/net10.0/DrillSixConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/bin/Debug/net10.0/DrillSixConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.sourcelink.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/refint/DrillSixConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/DrillSixConsole.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSixConsole/obj/Debug/net10.0/ref/DrillSixConsole.dll
