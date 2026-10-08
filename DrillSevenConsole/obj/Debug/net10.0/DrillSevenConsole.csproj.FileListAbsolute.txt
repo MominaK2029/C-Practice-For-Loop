@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/bin/Debug/net10.0/DrillSevenConsole
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/bin/Debug/net10.0/DrillSevenConsole.deps.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/bin/Debug/net10.0/DrillSevenConsole.runtimeconfig.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/bin/Debug/net10.0/DrillSevenConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/bin/Debug/net10.0/DrillSevenConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.sourcelink.json
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/refint/DrillSevenConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.pdb
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/DrillSevenConsole.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillSevenConsole/obj/Debug/net10.0/ref/DrillSevenConsole.dll

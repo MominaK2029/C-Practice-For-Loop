@@ -12,3 +12,4 @@
 /Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillTwoConsole/obj/Debug/net10.0/DrillTwoConsole.pdb
 /Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillTwoConsole/obj/Debug/net10.0/DrillTwoConsole.genruntimeconfig.cache
 /Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillTwoConsole/obj/Debug/net10.0/ref/DrillTwoConsole.dll
+/Users/mominak/Desktop/C-Practice-For-Loop/C-Practice-For-Loop/DrillTwoConsole/obj/Debug/net10.0/DrillTwoConsole.sourcelink.json

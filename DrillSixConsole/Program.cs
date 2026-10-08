@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 class Program
 {
@@ -8,8 +9,10 @@ class Program
         int evenCount = 0;
         int oddCount = 0;
 
-        for (int i = 0; i>=0; i++)
-            Console.WriteLine(numbers[i]);
+        // for(int i = 0; i > 9; i++);
+            foreach(int i in numbers)
+                evenCount =  % 2 == 0;
+            Console.WriteLine(numbers);
 
         Console.WriteLine($"Evens: {evenCount}, Odds: {oddCount}");
     }

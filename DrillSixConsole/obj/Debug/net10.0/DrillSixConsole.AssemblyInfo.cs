@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrillSixConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27a176de2c6c8d67b82dbc45921223759e1fdb73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae5350bed47ad1b1fd6512c6fd98ea779eb544d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrillSixConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrillSixConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
